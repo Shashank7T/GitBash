@@ -17,6 +17,7 @@ public class CalculatorGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Iam doing my git worshop");
+        System.out.println("HEllo world");
     }
     
 }
